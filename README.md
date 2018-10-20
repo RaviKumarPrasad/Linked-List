@@ -1,2 +1,3 @@
 # Linked-List
-Types of linked list with implementations
+Types of linked list with implementations in C plus plus
+
